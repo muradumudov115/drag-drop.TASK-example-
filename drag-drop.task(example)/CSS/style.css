@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainBox{
+    width: 90%;
+    height: 560px;
+    background-color: #777;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    padding-top: 23px;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+.mainBox .secoundMainBox{
+   
+    background-color: rgb(6, 248, 6);
+    width: 1090px;
+    height: 370px;
+    margin-top: 50px;
+    padding-top: 15px;
+    
+}
+.mainBox .headBox{
+    width: 1090px;
+    height: 70px;
+    background-color:aqua;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 10px;
+}
+.head1{
+    background-color: rgb(209, 32, 32);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-bottom: 10px;
+    
+}
+.Box1{
+ 
+    background-color: rgb(29, 218, 29);
+    width: 90%;
+    height: 60px;
+    padding-top: 45px;
+    margin-left: 45px;
+}
+.Box2{
+ 
+    background-color:rgb(29, 218, 29);
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+
+}
+.Box3{
+ 
+    background-color: rgb(29, 218, 29);;
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+
+}
+.Box4{
+ 
+    background-color: rgb(29, 218, 29);;
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+}
+.secoundMainBox span{
+    margin-left: 45px;
+    
+}
